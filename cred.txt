@@ -1,0 +1,5 @@
+Permissions : 1571904
+Client ID : 541889593474154530
+
+Inviting link : 
+https://discordapp.com/oauth2/authorize?client_id=541889593474154530&scope=bot&permissions=1571904

@@ -1,0 +1,318 @@
+{
+  "greetings":[
+    {
+      "text":"Bonjour",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Salut",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Coucou",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Hello",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    }
+  ],
+  "discussion":[
+    {
+      "test":"Bien",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "test":"Bien et toi ?",
+      "weight":50,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "test":"Pas top",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "test":"Ca va",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "test":"Dommage",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    }
+  ],
+  "questions":[
+    {
+      "text":"C'est grave ?",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"C'est agréable ?",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"C'est donc ça ?",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Cela te rend-t-il heureux ?",
+      "weight":50,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Mince, qu'est ce qui ne va pas ?",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Est ce que c'est bien ?",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Comment te sens-tu ?",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    }
+  ],
+  "answers":[
+    {
+      "text":"Oui",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Non",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Tout à fait",
+      "weight":50,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Pas tellement",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Je crois",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Pourquoi pas",
+      "weight":10,
+      "mood":"neutral",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Génial !",
+      "weight":75,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Je suis heureux pour toi !",
+      "weight":75,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Je suis désolé pour toi ...",
+      "weight":2,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Mince !",
+      "weight":5,
+      "mood":"sad",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Heureux que tu ailles bien",
+      "weight":40,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    },
+    {
+      "text":"Super :happy:",
+      "weight":25,
+      "mood":"happy",
+      "parents":[
+
+      ],
+      "children ":[
+
+      ]
+    }
+  ]
+}
