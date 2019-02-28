@@ -1,3 +1,17 @@
+/**
+ * Copyright (c) 2019
+ *
+ * Run Discord bot.
+ * It launchs the bot on a specific port using "config.json".
+ * Use a "." (dot) to run a command (see "commands" folder)
+ *
+ * @summary Brain of the bot
+ * @author Valentin/Valousegawa/Telest <valou.pannacotta@gmail.com>
+ *
+ * Created at     : 2019-02-04 09:21:56
+ * Last modified  : 2019-02-28 10:31:40
+ */
+
 const Discord = require("discord.js");
 const cron = require("node-cron");
 const fs = require("fs");

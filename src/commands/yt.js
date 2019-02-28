@@ -1,3 +1,16 @@
+/**
+ * Copyright (c) 2019
+ *
+ * Discord Youtube sound flow player.
+ * Needs imporvments.
+ *
+ * @summary Youtube player code
+ * @author Valentin/Valousegawa/Telest <valou.pannacotta@gmail.com>
+ *
+ * Created at     : 2019-02-04 09:59:25
+ * Last modified  : 2019-02-04 10:54:45
+ */
+
 const ytdl = require("ytdl-core");
 const config = require("../../config/config.json");
 
